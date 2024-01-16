@@ -13,6 +13,8 @@
 		114AD61B2B559A8700A1718E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 114AD6192B559A8700A1718E /* Main.storyboard */; };
 		114AD61D2B559A8800A1718E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 114AD61C2B559A8800A1718E /* Assets.xcassets */; };
 		114AD6202B559A8800A1718E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 114AD61E2B559A8800A1718E /* LaunchScreen.storyboard */; };
+		114AD6292B55AF1100A1718E /* StudentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 114AD6282B55AF1100A1718E /* StudentView.swift */; };
+		114AD62B2B55B39E00A1718E /* StudentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 114AD62A2B55B39E00A1718E /* StudentModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		114AD61C2B559A8800A1718E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		114AD61F2B559A8800A1718E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		114AD6212B559A8800A1718E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		114AD6282B55AF1100A1718E /* StudentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentView.swift; sourceTree = "<group>"; };
+		114AD62A2B55B39E00A1718E /* StudentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				114AD6132B559A8700A1718E /* AppDelegate.swift */,
 				114AD6152B559A8700A1718E /* SceneDelegate.swift */,
 				114AD6172B559A8700A1718E /* ViewController.swift */,
+				114AD62A2B55B39E00A1718E /* StudentModel.swift */,
+				114AD6282B55AF1100A1718E /* StudentView.swift */,
 				114AD6192B559A8700A1718E /* Main.storyboard */,
 				114AD61C2B559A8800A1718E /* Assets.xcassets */,
 				114AD61E2B559A8800A1718E /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 			files = (
 				114AD6182B559A8700A1718E /* ViewController.swift in Sources */,
 				114AD6142B559A8700A1718E /* AppDelegate.swift in Sources */,
+				114AD6292B55AF1100A1718E /* StudentView.swift in Sources */,
+				114AD62B2B55B39E00A1718E /* StudentModel.swift in Sources */,
 				114AD6162B559A8700A1718E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

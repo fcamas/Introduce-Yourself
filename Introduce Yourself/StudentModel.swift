@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct StudentModel {
+    var name: String
+    var age: Int
+}
